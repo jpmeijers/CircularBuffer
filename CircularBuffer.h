@@ -142,5 +142,5 @@ private:
 #endif
 };
 
-#include <CircularBuffer.tpp>
+#include "CircularBufferTpp.h"
 #endif
